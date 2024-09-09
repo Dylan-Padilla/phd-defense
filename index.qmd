@@ -1,0 +1,29 @@
+---
+title: 'Macro– and microevolutionary insights into the evolution of foraging behavior and the life history'
+author: '<br>Dylan Padilla'
+institute: "Doctoral Dissertation Defense<br>October 15, 2024<br><img src='imgs/testing.png' width=470px height=280px/><br>School of Life Sciences<br>Arizona State University<br>Tempe, Arizona"
+format: 
+  revealjs:
+    incremental: true
+    logo: imgs/asu_logo.png
+    footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
+    slide-number: true
+    multiplex: true
+    theme: [simple, assets/monash.scss]
+    show-slide-number: all
+    controls: true
+    width: 1280
+    height: 720
+    css: [assets/syntax-highlight.css, assets/custom.css, assets/pacman.css]
+    header-includes: |
+      <link rel="stylesheet" href="/assets/fontawesome-free-6.1.1-web/css/font-awesome.min.css">
+      <script defer src="/assets/fontawesome-free-6.1.1-web/js/all.min.js"></script>
+execute:
+  echo: true
+---
+
+# Slide deck will be available one day before the defense! <br> {background-color="#006dae"}
+
+<center>
+<img src = 'imgs/patience.gif'/>
+</center>
