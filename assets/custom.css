@@ -1,9 +1,13 @@
 #title-slide .author {
-  font-size: 30px!important;
+    font-size: 30px!important;
 }
 #title-slide .title {
-  font-size: 50px!important;
+    font-size: 50px!important;
+    color: purple;
+
 }
+
+
 #title-slide .author:after {
   content: url('../imgs/asu_logo.png');
   display: block;
