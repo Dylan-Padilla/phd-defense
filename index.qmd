@@ -22,8 +22,15 @@ execute:
   echo: true
 ---
 
-# Slide deck will be available one day before the defense! <br> {background-color="#006dae"}
+## Slide deck will be available one day before the defense! <br> {background-color="#006dae"}
+
+<div class='pac-man'></div>
+
+<br>
 
 <center>
 <img src = 'imgs/patience.gif'/>
 </center>
+
+
+
