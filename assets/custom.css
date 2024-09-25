@@ -1,22 +1,28 @@
+/* Let's load some fonts */
+
+
 #title-slide .author {
     font-size: 30px!important;
 }
 #title-slide .title {
     font-size: 50px!important;
     color: purple;
-
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: normal;
 }
 
 
 #title-slide .author:after {
   content: url('../imgs/asu_logo.png');
   display: block;
+  background: url('../imgs/paper-bg.jpg') no-repeat;
+  font-family: "Comic Sans MS", sans-serif;
 
   /***
     display: block;
     content: "";
     height: 200px;
-    background: transparent url('../images/monash-one-line-black-rgb.png') no-repeat;
+    background: transparent url('../imgs/paper-bg.jpg') no-repeat;
   
 
     ***/
@@ -29,11 +35,13 @@
   border: 5px solid #006DAE;
   padding: 10px;
   font-size: 26px;
+  font-family: "Comic Sans MS", sans-serif;
   background-color: #E6E6E6;
 }
 
 .font-small {
-  font-size: 1.2rem;
+    font-size: 1.2rem;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 .info-box {
@@ -63,7 +71,7 @@
     color: white;
     text-align: center;
     font-weight: bold;
-    font-family: 'Roboto Condensed', sans-serif;
+    
 }
 
 .story {
@@ -71,15 +79,11 @@
   color: white;
   font-size: 0.3em;
   padding: 10px;
-  font-family: 'Roboto Condensed', sans-serif;
   vertical-align: middle;
+  font-family: "Comic Sans MS", sans-serif;
+  font-weight: normal;
 }
 
 .row {
   display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
 }
