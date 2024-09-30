@@ -4,6 +4,7 @@ author: '<br>Dylan Padilla'
 institute: "Doctoral Dissertation Defense<br>October 15, 2024<br><img src='imgs/testing.png' width=470px height=280px/><br>School of Life Sciences<br>Arizona State University<br>Tempe, Arizona"
 format: 
   revealjs:
+    chalkboard: true
     incremental: true
     logo: imgs/asu_logo.png
     footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
@@ -21,12 +22,1006 @@ execute:
   echo: true
 ---
 
-## [Slide deck will be available the day before the defense!]{style='font-family:Comic Sans MS, sans-serif;font-weight:normal;'} <br> {background-color="#006dae"}
+# [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/lab-background.jpg'}
 
-<div class='pac-man'></div>
+<br><br><br><br><br><br><br><br><br>
+
+## 🧪 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/lab-background.jpg'}
+
+<br><br><br><br><br>
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/Mike.png' width = 300px height = 300px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+
+  </figure>
+  </div>
+</div>
+</center>
+
+## 🧪 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/lab-background.jpg'}
+
+<br><br><br><br><br>
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/Mike.png' width = 300px height = 300px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/field-group.jpg' width = 230px height = 300px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/group-oregon.jpg' width = 235px height = 300px/>
+  </figure>
+  </div>
+</div>
+</center>
+
+## 🎓 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/Marla.jpeg' width = 250px height = 300px/>
+  <figcaption><font size='5'>Dr Marla Sokolowski</font></figcaption>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/John.jpg' width = 255px height = 300px/>
+  <figcaption><font size='5'>Dr John VandenBrooks</font></figcaption>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/Dale.jpeg' width = 260px height = 300px/>
+  <figcaption><font size='5'>Dr Dale DeNardo</font></figcaption>
+  </figure>
+  </div>
+</div>
+</center>
+
+## ☕ {background='imgs/coffee-bg.png'}
+
+## ☕ [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/paper-bg.jpg'}
+
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/CEM.webp' width = 300px height = 200px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/kenneth.png' width = 200px height = 200px/>
+  <figcaption><font size='5'>Dr Kenneth Buetow</font></figcaption>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/jennifer.png' width = 200px height = 200px/>
+  <figcaption><font size='5'>Jennifer Vazquez</font></figcaption>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/desiree.jpeg' width = 200px height = 200px/>
+  <figcaption><font size='5'>Desiree Bogen</font></figcaption>
+  </figure>
+  </div>
+</div>
+<br>
+<center>
+<figure>
+<img src = 'imgs/suhail.jpeg' width = 190px height = 210px/>
+<figcaption><font size='5'>Suhail Ghafoor</font></figcaption>
+</figure>
+<center>
+
+## 🧪 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/paper-bg.jpg'}
+
+<center>
+<figure>
+<img src = 'imgs/CME.png' width = 650px height = 200px/>
+</figure>
+<figure>
+<img src = 'imgs/kerrys-lab.jpeg' width = 430px height = 300px/>
+<figcaption>Samerotte Lab</figcaption>
+</figure>
+<center>
+
+## 👩‍👩‍👧‍👧 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/dad.jpeg' width = 220px height = 400px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/mom-sister.jpeg' width = 300px height = 400px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/cami.jpeg' width = 300px height = 400px/>
+  </figure>
+  </div>
+</div>
+</center>
+
+## 🤝 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/paper-bg.jpg'}
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/ladies.jpeg' width = 450px height = 600px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/boys.jpeg' width = 450px height = 600px/>
+  </figure>
+  </div>
+</div>
+</center>
+
+# [Dissertation Overview]{style="color:orange;font-family:Comic Sans MS;font-weight:normal;"} <br> {background='imgs/snapping-turtle.jpeg'}
+
+<br><br><br><br><br><br><br><br><br><br>
+
+## [Macroevolution and Microevolution]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+<center>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src = 'imgs/goldschmidt.png' width = 350px height = 500px/>
+  </figure>
+  </div>
+  <div class="column">
+  <figure>
+  <img src = 'imgs/dobzhansky.png' width = 350px height = 500px/>
+  </figure>
+  </div>
+</div>
+</center>
+
+
+## [Macroevolution]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<center>
+<br><br>
+"Focuses on the long-term fate of species or higher-rank taxa through geologic time"
+
+</center>
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+
+## [Macroevolution]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<center>
+<br><br>
+"Focuses on the long-term fate of species or higher-rank taxa through geologic time"
+<br><br>
+It enables us to study trait evolution
+
+</center>
+
+:::
+
+::: {.column width="50%"}
+![](imgs/tree4-Photoroom.png)
+:::
+
+::::
+
+
+## [Macroevolution]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<center>
+<br><br>
+"Focuses on the long-term fate of species or higher-rank taxa through geologic time"
+<br><br>
+It enables us to study trait evolution
+
+</center>
+
+:::
+
+::: {.column width="50%"}
+![](imgs/foraging-tree.png)
+:::
+
+::::
+
+## [Microevolution]{style="font-family:Comic Sans MS;font-weight:normal;color:blue;"} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<center>
+<br><br><br><br>
+"Deals with the processes that lead to evolutionary change and reproductive isolation within and among populations"
+</center>
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+## [Microevolution]{style="font-family:Comic Sans MS;font-weight:normal;color:blue;"} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<center>
+<br><br><br><br>
+"Deals with the processes that lead to evolutionary change and reproductive isolation within and among populations"
+</center>
+
+:::
+
+::: {.column width="50%"}
+<center>
+<img src = 'imgs/larva-Photoroom.png' width = 90px height = 70px/>
+<img src = 'imgs/Drosophila.png' width = 200px height = 100px/>
+<img src = 'imgs/paths-Photoroom.png' width = 330px height = 190px/>
+<figcaption><font size='3'>Rover vs Sitter</font></figcaption>
+![](imgs/microevo.png)
+</center>
+:::
+
+::::
+
+
+## [Mechanisms of evolutionary change]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+- Genetic drift
+- Migration
+- Mutation
+- Recombination
+- Selection
+
+:::
+
+::: {.column width='50%'}
+
+- [Goal]{style='color:red;'}: To connect the knowledge of the mechanisms of evolution with the patterns observed across the tree of life, and those observed within and among populations
+
+:::
+
+::::
+
+
+
+# [Outline]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/paper-bg.jpg'}
+
+- [Story 1:]{style='color:red;'} Macroclimatic and maternal effects on the evolution of reproductive traits in lizards
+- [Story 2:]{style='color:red;'} The correlated evolution of foraging mode and reproductive effort in lizards
+- [Story 3:]{style='color:red;'} Geographic and seasonal variation of the for gene reveal signatures of local adaptation in *Drosophila melanogaster*
+- [Story 4:]{style='color:red;'} Foraging actively can be advantageous in heterogeneous environments
+
+
+# [STORY 1]{.story} [🪺 Evolution of reproductive traits]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/crotalus-offspring.jpg'}
+
+<br><br><br><br><br><br><br><br><br>
+
+## [What is life history theory?]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+![](imgs/hatchlings-Photoroom.png){#id .class width=60% height=80%}
+![](imgs/lizard_eggs-Photoroom.png){#id .class width=70% height=70%}
+
+:::
+
+::: {.column width='50%'}
+
+![](imgs/komodo_dragon-Photoroom.png){#id .class width=80% height=70%}
+![](imgs/phrynosoma-Photoroom.png)
+
+:::
+
+::::
+
+## [Optimal reproductive tactics]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+```{r echo = FALSE, out.width="225px", fig.align = "center"}
+
+knitr::include_graphics("imgs/hyp1-Photoroom.png")
+
+```
+
+## [Optimal reproductive tactics]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+```{r echo = FALSE, out.width="225px", fig.align = "center"}
+
+knitr::include_graphics("imgs/hyp2-Photoroom.png")
+
+```
+
+## [Optimal reproductive tactics]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+```{r echo = FALSE, out.width="225px", fig.align = "center"}
+
+knitr::include_graphics("imgs/hyp3-Photoroom.png")
+
+```
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.colums}
+
+::: {.column width='50%'}
+
+<br>
+<center>
+![](imgs/agamidae.jpeg){#id .class height=11% width=15%}
+![](imgs/anguidae.jpeg){#id .class height=10% width=15%}
+![](imgs/chamaeleonidae.jpeg){#id .class height=12% width=17%}
+![](imgs/gymnophthalmidae.jpeg){#id .class height=10% width=15%}
+![](imgs/dactyloidae.jpeg){#id .class height=12% width=16%}
+![](imgs/iguanidae.jpeg){#id .class height=10% width=15%}
+![](imgs/pygopodidae.jpeg){#id .class height=12% width=16%}
+![](imgs/varanidae.jpeg){#id .class height=12% width=17%}
+![](imgs/liolaemidae.jpeg){#id .class height=12% width=17%}
+![](imgs/phrynosomatidae.jpeg){#id .class height=12% width=17%}<br>
+</center>
+- <font size='5'>Abiotic factors: primary production, precipitation, environmental temperature</font>
+- <font size='5'>Biotic factors: maternal size, hatchling size, clutch size, and body temperature</font><br>
+![](imgs/worldclim.png){#id .class height=10% width=30%} <br>
+:::
+
+::: {.column width='50%'}
+<br><br>
+<center>
+![](imgs/enhanced-map2.png){#id .class height=120% width=120%} <br>
+</center>
+:::
+::::
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.colums}
+
+::: {.column width='50%'}
+
+<br>
+<center>
+![](imgs/agamidae.jpeg){#id .class height=11% width=15%}
+![](imgs/anguidae.jpeg){#id .class height=10% width=15%}
+![](imgs/chamaeleonidae.jpeg){#id .class height=12% width=17%}
+![](imgs/gymnophthalmidae.jpeg){#id .class height=10% width=15%}
+![](imgs/dactyloidae.jpeg){#id .class height=12% width=16%}
+![](imgs/iguanidae.jpeg){#id .class height=10% width=15%}
+![](imgs/pygopodidae.jpeg){#id .class height=12% width=16%}
+![](imgs/varanidae.jpeg){#id .class height=12% width=17%}
+![](imgs/liolaemidae.jpeg){#id .class height=12% width=17%}
+![](imgs/phrynosomatidae.jpeg){#id .class height=12% width=17%}<br>
+</center>
+- <font size='5'>Phylogenetic path analysis with the *phylopath* library of R </font><br>
+- <font size='5'>Data analyses were entirely based on full model averaging</font><br>
+:::
+
+::: {.column width='50%'}
+<center>
+![](imgs/hypotheses-Photoroom.png){#id .class height=120% width=120%} <br>
+</center>
+:::
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+A model describing a direct and an indirect [effect of precipitation]{style='color:skyblue;'} on the evolution of reproductive traits was strongly supported
+
+
+:::: {.colums}
+
+::: {.column width='30%'}
+
+<br>
+<center>
+<font size='5'>BT: body temperature; CS: clutch size; FS: female size; HS: hatchling size; PR: precipitationl; PP: primary production</font><br><br>
+<font size='5'> [Blue]{style='color:blue;'} and [red]{style='color:red;'} arrows represent positive and negative effetcs, respectively.</font>
+</center>
+:::
+
+::: {.column width='70%'}
+<center>
+![](imgs/enhanced-pannel_rev-Photoroom.png){#id .class height=80% width=60%}
+</center>
+
+:::
+::::
+
+## [<span style='color:skyblue'>Precipitation</span> and radiation increase the rate of photosynthesis]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;float:right;text-align:right;'} {background='imgs/precipitation.gif'}
+
+## <br><br><br><br><br><br> [✔️ Lizards with larger amounts of resources produce larger hatchlings and larger clutches]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;float:right;text-align:right;'} <br> {background='imgs/lizard-bg.jpg'}
+
+# [STORY 2]{.story} <br><br><br><br> [🦎🪰 Evolution of foraging behavior]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/lizard-eating.jpg'}
+
+## [Foraging behaviors]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<p align = "center">
+<span style = "color: purple;" > Active foragers </span>
+</p>
+<center>
+<img float = "left" src = "imgs/cnemis.gif"  width = "390" height = "220">
+<img float = "right" src = "imgs/komodo.gif"  width = "390" height = "240">
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<p align = "center">
+<span style = "color: skyblue;" > Sit-and-wait foragers </span>
+</p>
+<center>
+<img float = "right" src = "imgs/sidewander.gif"  width = "390" height = "240">
+<img float = "left" src = "imgs/snapping-turtle.gif"  width = "390" height = "230">
+</center>
+
+:::
+
+::::
+
+
+## [Hypotheses]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<center>
+![](imgs/diag1.png){#id .class height=80% width=80%}
+</center>
+
+## [Hypotheses]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<center>
+![](imgs/diag2.png){#id .class height=80% width=80%}
+</center>
+
+## [Hypotheses]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<center>
+![](imgs/diag3.png){#id .class height=80% width=80%}
+</center>
+
+## [Hypotheses]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<center>
+![](imgs/diag4.png){#id .class height=80% width=80%}
+</center>
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+
+**Data source and description of variables:**
+
+:::: {.columns}
+
+::: {.column width='50%'}
+<br>
+
+![](imgs/Meiri-2018.jpeg)
+
+:::
+
+::: {.column width='50%'}
 
 <br>
 
+- Hatchling mass
+- Offspring number
+- Female mass
+- Scaled-mass index
+
+:::
+
+::::
+
+<br>
 <center>
-<img src = 'imgs/patience.gif'/>
+$Reproductive\;output=Hatchling\;size \times Offspring\;number$
 </center>
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br><br>
+**Ancestral reconstruction of foraging behavior:**
+
+- I used a set of continuous-time, discrete-state Markov chain models to sample the character histories from their posterior probability distribution
+
+- I selected the most likely model of evolution based on the Akaike information criterion (AIC)
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br>
+
+**Effects of maternal mass and foraging behavior on reproductive effort:**
+
+- I modeled this relationship using PGLS
+
+<center>
+
+$y=X_{D}m+\epsilon;$
+
+\begin{gather}
+X_{D}=
+\begin{bmatrix}
+1 & x_{1}\\
+1 & x_{2}\\
+\end{bmatrix}
+\end{gather}
+
+</center>
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+
+:::: {.columns}
+
+
+::: {.column width='50%'}
+
+```{r, echo = FALSE, fig.align='center', fig.width=7, fig.height=7}
+
+library(shape)
+
+x <- rnorm(100, 5, 2)
+y <- rnorm(100, 2, 1)
+
+par(bg='transparent', cex.lab = 1.5, cex = 1.3)
+
+plot(y ~ x, axes=FALSE, type = 'n', xlab = 'Female mass (g)', ylab = 'Reproductive effort (g)', pch = 16, col = 'black')
+abline(a = 0.2, b = 0.2, lwd = 3, lty = 2, col = 'red')
+segments(5, -2, 5, 1.2, lwd = 2.5)
+segments(5, 1.2, -2, 1.2, lwd = 2.5)
+Arrows(5, 2.7, 5, 1.6, lwd = 2, col = 'blue')
+text(x = 5, y = 3, substitute(paste(italic('m'))), cex = 2)
+box(lwd = 2.5)
+
+```
+
+:::
+
+::: {.column width='50%'}
+
+<br><br><br><br>
+<center>
+$m=\frac{y_2-y_1}{x_2-x_1}$ <br>
+</center>
+- Proportion of mass allocated to reproduction
+
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/foraging-tree.png)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<br><br>
+<center>
+1. Sit-and-wait foraging is the most likely ancestral state \linebreak
+2. foraging behavior is conserved among lizards
+</center>
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br>
+[Interaction between maternal mass and foraging behavior]{style='color:red'}
+
+<center>
+![](imgs/figure3.png){#id .class height=90% width=90%}
+</center>
+
+## [Why eating more is important]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+- It reduces age at first reproduction
+- It increases energy stores to initiate reproduction
+- It promotes follicular growth during the reproductive season
+
+## <br> [Here is what we know so far...]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/forest.gif'}
+
+<br>
+
+[<span style='color: skyblue'>✔ STORY 1:</span> Lizards with larger amounts of resources produce larger hatchlings and larger clutches]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}
+
+<br>
+
+[<span style='color: skyblue'>✔ STORY 2:</span> Species of widely foraging lizards have evolved greater reproductive effort, but only in heavier species]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}
+
+# [STORY 3]{.story} <br><br><br><br> [🪰 Geographic and seasonal variation of the *for* gene]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/dmel-bg.png'}
+
+
+## {background='imgs/paper-bg.jpg'}
+
+[The Dmel *foraging* gene provides an opportunity to understand the mechanisms underlying evolutionary responses to environmental variation]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal'}
+
+
+:::: {.columns}
+
+::: {.column width='50%'}
+<br><br>
+![](imgs/for-gene-Photoroom.png)
+![](imgs/ezgif.com-effects (3).gif){width=20%}
+![](imgs/paths-Photoroom.png){width=50%}
+<center>
+<img src = 'imgs/Drosophila.png' width = 200px height = 100px/>
+</center>
+:::
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/cline-Photoroom.png)
+</center>
+
+:::
+
+::::
+
+## []{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/dest.png'}
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br><br>
+
+- Genetic differentiation among populations according to Weir and Cockerham (1984)
+- Population structure based on admixture proportions
+- Genotype–environment association analysis based on LFMMs with a ridge penalty (Jumentier et al., 2022)
+- Isolation by environment and isolation by distance
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<br>
+<center>
+![](imgs/heatmap-Photoroom.png)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<br><br>
+<center>
+- Overall $F_{st}$ value of 0.032, but the pairwise differences in $F_{st}$ ranged from 0 to 0.069
+- Two major clusters separating the pools collected in America from those collected in Europe
+</center>
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<br>
+<center>
+![](imgs/admixture_revisions3.png)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<br><br>
+<center>
+- $k=9$ best accounted for population structure among all samples
+- Across chromosome 2L, $k=8$ best accounted for population structure
+</center>
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/adaptation_revisions2.png)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<br><br>
+<center>
+- Based on *for* ($k=9$), I detected two candidate SNPs under selection in response to precipitation
+- Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selectio in response to precipitation
+</center>
+
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/distance.revision2-removebg.png)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<br><br><br>
+<center>
+- Populations are relatively similar at short distances, while this similarity decreases with geographic distance
+</center>
+
+:::
+
+::::
+
+
+## [✔ East–west gradient in allele frequency resulting from spatially varying selection driven by the seasonality of <span style='color: skyblue'>precipitation</span>]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;float:right;text-align:right;'} {background='imgs/precipitation.gif'}
+
+
+# [STORY 4]{.story} <br><br><br><br> [🪷🐝 Foraging actively can be advantageous]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/foraging-actively.png'}
+
+## {background='imgs/paper-bg.jpg'}
+
+This behavioral polymorphism creates the expectation of different energetic needs between morphs
+<br><br>
+<center>
+![](imgs/paths-Photoroom.png){width=50%}<br>
+</center>
+
+## {background='imgs/paper-bg.jpg'}
+
+This behavioral polymorphism creates the expectation of different energetic needs between morphs
+<br><br>
+<center>
+![](imgs/paths-Photoroom.png){width=50%}<br>
+Assessing which foraging strategy yields the highest surplus energy in a given environment becomes crucial
+</center>
+
+## [In nature, food is distributed in patches that vary in size and density over time]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/patchyness.png'}
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'} {background='imgs/lab-experiment.jpg'}
+
+## [Methods: <span style='color:red'>patchy environment</span>]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/patchy.jpg'}
+
+## [Methods: <span style='color:red'>clumped environment</span>]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/clumped.jpg'}
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br>
+
+**Two experiments were designed**
+
+<br><br>
+
+- A Locomotion assay
+- A growth assay
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br>
+
+**Locomotion assay**
+
+<br>
+
+- I released the larvae in each plate, randomizing the combination of genotype, environment, and position of release among plates
+- After a period of 1 hr, I recorded the larvae for 30 min, using a camera held 30 cm above the plates
+- I computed the proportion of area covered by the larvae while foraging (free software AnimalTA v.2.2.1)
+
+
+## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+<br>
+
+**Growth assay**
+
+- I recorded the initial mass of the larvae
+- I released the larvae in each plate, randomizing the combination of genotype, environment, and position of release among plates
+- After 24 hr, I recorded the final mass of the larvae
+- I measured growth as the difference between the initial mass and the final mass of the larvae
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/figure1-revised.png){#id .class height=60% width=60%}
+</center>
+
+:::
+
+::: {.column width='50%'}
+<br>
+
+- Rovers covered larger areas than did sitters within each environment
+- The area exploited by either genotype was generally larger in the patchy environment compared to that exploited in the uniform environment 
+
+:::
+
+::::
+
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/figure1-revised.png){#id .class height=60% width=60%}
+</center>
+
+:::
+
+::: {.column width='50%'}
+<br>
+
+- Larvae of both genotypes grew faster in uniform environments than they did in patchy environments
+- In either type of environment, sitters grew slightly faster than rovers did
+
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/figure1-ezgif.com-effects.gif)
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+:::
+
+::::
+
+
+## [Results]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/figure1-ezgif.com-effects.gif)
+</center>
+
+:::
+
+::: {.column width='50%'}
+![](imgs/locomotion.mov)
+:::
+
+::::
+
+
+## [✔ Foraging behavior is a plastic trait remarkably shaped by the distribution of food in the environment]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/patchyness.png'}
+
+
+## [✔ Both strains grew similar sizes in either environment even though rovers generally covered larger areas than did sitters while foraging.]{style='float:right;text-align:right;color:gold;font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/patchyness.png'}
+
+# [Cloncluding remarks]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/forest.gif'}
+
+## []{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:gold;'} {background='imgs/forest.gif'}
+
+- [<span style='color: skyblue'>✔ STORY 1:</span> Lizards with larger amounts of resources produce larger hatchlings and larger clutches]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}
+
+- [<span style='color: skyblue'>✔ STORY 2:</span> Species of widely foraging lizards have evolved greater reproductive effort, but only in heavier species]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}
+
+- [<span style='color: skyblue'>✔ STORY 3:</span> Dmel populations are genetically differentiated resulting from spatially varying selection driven by the seasonality of precipitation]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}
+
+- [<span style='color: skyblue'>✔ STORY 4:</span> Uniform environments stimulate a faster growth than do patchy environments. Behavioral strains do not differ in growth in either environment even though rovers generally cover larger areas than do sitters while foraging]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:orange;'}

@@ -87,3 +87,8 @@
 .row {
   display: flex;
 }
+
+.mjx-chtml {
+    font-family: 'Latin Modern';
+
+}
