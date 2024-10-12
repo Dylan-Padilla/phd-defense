@@ -4,6 +4,7 @@ author: '<br>Dylan Padilla'
 institute: "Doctoral Dissertation Defense<br>October 15, 2024<br><img src='imgs/testing.png' width=470px height=280px/><br>School of Life Sciences<br>Arizona State University<br>Tempe, Arizona"
 format: 
   revealjs:
+    chalkboard: true
     incremental: true
     logo: imgs/asu_logo.png
     footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
@@ -21,11 +22,8 @@ execute:
   echo: true
 ---
 
-## [Slide deck will be available the day before the defense!]{style='font-family:Comic Sans MS, sans-serif;font-weight:normal;'} <br> {background-color="#006dae"}
+# [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/lab-background.jpg'}
 
-<<<<<<< HEAD
-<div class='pac-man'></div>
-=======
 <br><br><br><br><br><br><br><br><br>
 
 ## 🧪 [Acknowledgements]{style="font-family:Comic Sans MS;font-weight:normal"} <br> {background='imgs/lab-background.jpg'}
@@ -564,15 +562,22 @@ Direct and an indirect [effects of precipitation]{style='color:purple;'} on the 
 :::
 
 ::: {.column width='50%'}
->>>>>>> 2ae80a0 (Updating figures)
 
 <br>
 
+- Hatchling mass
+- Offspring number
+- Female mass
+- Scaled-mass index
+
+:::
+
+::::
+
+<br>
 <center>
-<img src = 'imgs/patience.gif'/>
+$Reproductive\;output=Hatchling\;size \times Offspring\;number$
 </center>
-<<<<<<< HEAD
-=======
 
 
 ## [Methods]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;'} {background='imgs/paper-bg.jpg'}
@@ -1095,4 +1100,3 @@ Assessing which foraging strategy yields the highest surplus energy in a given e
 - [<span style='color: skyblue'>✔ STORY 3:</span> Dmel populations are genetically differentiated resulting from spatially varying selection driven by the seasonality of precipitation]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:white;'}
 
 - [<span style='color: skyblue'>✔ STORY 4:</span> Uniform environments stimulate a faster growth than do patchy environments. Behavioral strains do not differ in growth in either environment even though rovers generally cover larger areas than do sitters while foraging]{style='font-family:Comic Sans MS,sans-serif;font-weight:normal;color:white;'}
->>>>>>> 2ae80a0 (Updating figures)
