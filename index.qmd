@@ -841,7 +841,7 @@ Across chromosome 2L, $k=8$ best accounted for population structure
 
 Based on *for* ($k=9$), I detected two candidate SNPs under selection in response to precipitation <br><br>
 
-Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selectio in response to precipitation
+Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selection in response to precipitation
 
 
 :::
@@ -869,7 +869,7 @@ Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selectio in response 
 
 Based on *for* ($k=9$), I detected two candidate SNPs under selection in response to precipitation <br><br>
 
-Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selectio in response to precipitation
+Based on Chr2L ($k=8$), I detected 52 candidate SNPs under selection in response to precipitation
 
 
 :::
